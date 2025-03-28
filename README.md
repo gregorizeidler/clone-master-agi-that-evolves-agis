@@ -208,21 +208,33 @@ python -m mestre_dos_clones.main --generations 10 --population 20 --seed 42
 mestre_dos_clones/
 ├── agents/                 # Implementation of system agents
 │   ├── architect.py        # Creates and evolves clones
-│   ├── trainer.py          # Trains clones with data
 │   ├── evaluator.py        # Evaluates clone performance
-│   └── selector.py         # Selects clones for evolution
+│   ├── selector.py         # Selects clones for evolution
+│   ├── trainer.py          # Trains clones with data
+│   └── __init__.py         # Package initialization
 ├── clones/                 # Clone definitions and implementations
+│   ├── adaptive_clone.py   # Adaptive implementation
 │   ├── base_clone.py       # Base class for all clones
-│   └── sentiment_clone.py  # Specific implementation for sentiment
+│   ├── clustering_clone.py # Implementation for clustering tasks
+│   ├── dimension_clone.py  # Implementation for dimensionality reduction
+│   ├── meta_clone.py       # Meta-learning implementation
+│   ├── regression_clone.py # Implementation for regression tasks
+│   ├── sentiment_clone.py  # Implementation for sentiment analysis
+│   ├── __init__.py         # Package initialization
+│   └── generated/          # Generated clones directory
 ├── data/                   # Data for training and testing
-│   └── examples/           # Example datasets
+│   └── dataset.txt         # Example dataset
 ├── utils/                  # Tools and utilities
-│   ├── data_handler.py     # Data management
-│   └── visualization.py    # Visualization tools
+│   ├── diversity_metrics.py # Diversity measurement tools
+│   ├── evolutionary_islands.py # Island model implementation
+│   ├── visualization.py    # Visualization tools
+│   └── __init__.py         # Package initialization
 ├── app.py                  # Streamlit interface
 ├── cli.py                  # Command line interface
+├── features.py             # Features implementation
 ├── main.py                 # Runs the evolutionary cycle
 ├── run_app.py              # Script to start the web interface
+├── __init__.py             # Package initialization
 └── requirements.txt        # Project dependencies
 ```
 
