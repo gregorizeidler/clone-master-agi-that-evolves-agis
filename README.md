@@ -378,11 +378,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- Project Lead: [Your Name](https://github.com/your-username)
-- Contributors: [See all contributors](https://github.com/your-username/clone-master/contributors)
+- Project Lead: [Your Name](https://github.com/gregorizeidler)
+
 
 ---
 
-<p align="center">
-  <i>Built with ❤️ and a whole lot of evolution</i>
-</p>
