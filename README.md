@@ -11,7 +11,7 @@
   <i>An evolutionary system that allows AIs to create, train, and evolve new AIs without direct human intervention</i>
 </p>
 
-![Clone Master Diagram](https://via.placeholder.com/800x400?text=Clone+Master+Diagram)
+
 
 ## 📋 Table of Contents
 
