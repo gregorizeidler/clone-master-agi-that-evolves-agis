@@ -11,7 +11,7 @@
   <i>An evolutionary system that allows AIs to create, train, and evolve new AIs without direct human intervention</i>
 </p>
 
-![Clone Master Diagram](https://via.placeholder.com/800x400?text=Clone+Master+Diagram)
+
 
 ## 📹 Demo Video
 
@@ -382,11 +382,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- Project Lead: [Your Name](https://github.com/your-username)
-- Contributors: [See all contributors](https://github.com/your-username/clone-master/contributors)
+- Project Lead: [gregorizeidler](https://github.com/your-username)
 
----
-
-<p align="center">
-  <i>Built with ❤️ and a whole lot of evolution</i>
-</p>
