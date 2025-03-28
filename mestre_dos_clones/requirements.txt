@@ -1,0 +1,21 @@
+# Bibliotecas essenciais
+numpy==1.24.3
+pandas==2.0.2
+scikit-learn==1.3.0
+matplotlib==3.7.2
+tqdm==4.65.0
+joblib==1.3.1
+
+# Para visualização
+plotly==5.15.0
+networkx==3.1
+streamlit==1.25.0
+
+# Para experimentação (opcional)
+ipykernel==6.23.3
+
+# Para paralelização (opcional, descomente se necessário)
+# ray==2.6.1
+
+# Para armazenamento (opcional, descomente se necessário)
+# pymongo==4.4.1
