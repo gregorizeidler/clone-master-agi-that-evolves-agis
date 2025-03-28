@@ -1,0 +1,40 @@
+O atendimento foi excelente, recomendo a todos!	1
+Eu amei o produto, superou minhas expectativas!	1
+Muito satisfeito com a qualidade do serviço.	1
+Uma experiência maravilhosa, voltarei com certeza.	1
+Ótimo custo-benefício, vale cada centavo.	1
+Estou muito contente com a compra.	1
+Produto incrível, funcionou perfeitamente.	1
+A entrega foi rápida e o produto chegou em perfeito estado.	1
+Excelente experiência de compra, recomendo!	1
+Funcionários muito atenciosos e prestativos.	1
+O produto superou minhas expectativas, muito bom!	1
+Valeu a pena cada centavo investido.	1
+Tive uma experiência fantástica, recomendo a todos.	1
+Serviço de qualidade e atendimento nota 10.	1
+Adorei o produto, com certeza comprarei novamente.	1
+Muito satisfeito com toda a experiência.	1
+O aplicativo é muito fácil de usar e eficiente.	1
+Simplesmente adorei, não tenho do que reclamar.	1
+Serviço de primeira qualidade, parabéns!	1
+A empresa cumpriu com tudo o que prometeu.	1
+O atendimento foi péssimo, nunca mais volto.	0
+Produto de péssima qualidade, quebrou no primeiro uso.	0
+Fiquei muito decepcionado com o serviço.	0
+Uma experiência terrível, não recomendo.	0
+Caro demais para a qualidade oferecida.	0
+Estou insatisfeito com a compra, não vale o preço.	0
+Produto horrível, não funciona como deveria.	0
+A entrega atrasou muito e o produto veio danificado.	0
+Péssima experiência de compra, evitem!	0
+Funcionários mal educados e despreparados.	0
+O produto não atende às especificações prometidas.	0
+Perdi meu dinheiro com esse produto.	0
+Tive uma experiência frustrante, não recomendo.	0
+Serviço de baixa qualidade e atendimento ruim.	0
+Detestei o produto, não compraria novamente.	0
+Muito insatisfeito com toda a experiência.	0
+O aplicativo é complicado e sempre trava.	0
+Simplesmente odiei, só tive problemas.	0
+Serviço de péssima qualidade, decepcionante.	0
+A empresa não cumpriu com o que prometeu.	0
